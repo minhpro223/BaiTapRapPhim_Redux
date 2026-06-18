@@ -1,0 +1,14 @@
+=== buoi 1 
+* Component
+* SPA 
+
+-example=1
+    -header
+    -nav
+    -content
+    -footer
+
+-example-2
+    -index 
+    -header
+    
