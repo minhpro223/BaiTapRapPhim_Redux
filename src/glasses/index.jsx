@@ -25,6 +25,7 @@ export default function Glasses() {
             alt=""
             className="absolute top-[75px] left-1/2 -translate-x-1/2 w-[140px] opacity-80"
           />
+
           <div className="absolute bottom-0 left-0 w-full bg-orange-400/80 p-3">
             <h3 className="text-blue-700 font-semibold text-sm">
               {selectedGlass.name}
