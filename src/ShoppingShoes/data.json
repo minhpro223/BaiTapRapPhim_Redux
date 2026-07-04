@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Prophere",
+      "alias": "adidas-prophere",
+      "price": 350,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 995,
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/331/646/products/cq2126c.jpg?v=1538648922257"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Prophere Black White",
+      "alias": "adidas-prophere-black-white",
+      "price": 450,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 990,
+      "image": "https://2app.kicksonfire.com/kofapp/upload/events_master_images/ipad_adidas-prophere-core-black-footwear-white.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adidas Prophere Customize",
+      "alias": "adidas-prophere-customize",
+      "price": 375,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 415,
+      "image": "https://th.bing.com/th/id/OIP.98OEqTmA3XrlEXleBLOJZwHaEK?w=301&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "id": 4,
+      "name": "Adidas Super Star Red",
+      "alias": "adidas-super-star-red",
+      "price": 465,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 542,
+      "image": "https://sneakerbardetroit.com/wp-content/uploads/2015/09/adidas-superstar-red.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Adidas Swift Run",
+      "alias": "adidas-swift-run",
+      "price": 550,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 674,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYv1QcYB-7HUx3gazdK_oVbb60KDiMJA1iPhRhbGK2w&s=10"
+    },
+    {
+      "id": 6,
+      "name": "Adidas Tenisky Super Star",
+      "alias": "adidas-tenisky-super-star",
+      "price": 250,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 456,
+      "image": "https://authentic-shoes.com/wp-content/uploads/2023/04/bb2871__1__ce0f731688704653a870e187632fa43d.png"
+    },
+    {
+      "id": 7,
+      "name": "Adidas Ultraboost 4",
+      "alias": "adidas-ultraboost-4",
+      "price": 450,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 854,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5GeqeiKClGoVPv3JDKdfjZK3dgSlMn3fy95KYMIBURMjdm7TqZsJYWXFsyPjSB32u9FshWYsHZaAUcd0KWU5V2otnAHlYlg"
+    },
+    {
+      "id": 8,
+      "name": "Adidas Yeezy 350",
+      "alias": "adidas-yeezy-350",
+      "price": 750,
+      "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
+      "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
+      "quantity": 524,
+      "image": "https://cdn-images.farfetch-contents.com/14/16/97/21/14169721_20127255_600.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nike Adapt BB",
+      "alias": "nike-adapt-bb",
+      "price": 630,
+      "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
+      "shortDescription": "Paul George is the rare high-percentage shooter",
+      "quantity": 599,
+      "image": "https://i.ebayimg.com/images/g/KscAAOSwczNkiou~/s-l1600.webp"
+    },
+    {
+      "id": 10,
+      "name": "Nike Air Max 97",
+      "alias": "nike-air-max-97",
+      "price": 650,
+      "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
+      "shortDescription": "Paul George is the rare high-percentage shooter",
+      "quantity": 984,
+      "image": "https://product.hstatic.net/200000174405/product/0_c1f410170a3e4c73bba0e961d180898f_master.png"
+    },
+    {
+      "id": 11,
+      "name": "Nike Air Max 97 Blue",
+      "alias": "nike-air-max-97-blue",
+      "price": 450,
+      "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
+      "shortDescription": "Paul George is the rare high-percentage shooter",
+      "quantity": 875,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCot2393KH3RH6QnwN6qtiW0kruFOUyGp3-S-HZEG4c8FK2wKBAEzz1DRE2fXMIc-uCMLcuE-Z4hJzpD1mCrpgclLl0rVoxWhssLhRHrs"
+    },
+    {
+      "id": 12,
+      "name": "Nike Air Max 270 React",
+      "alias": "nike-air-max-270-react",
+      "price": 750,
+      "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
+      "shortDescription": "Paul George is the rare high-percentage shooter",
+      "quantity": 445,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDpLfRoYFA6zXq0iVNQqiZKJ2DJSxsn__066MPnFEo-vuKNtERy9A10tU8Abkg9IAfQNnlWvM1AvBd90KJoCQA_6taUN9TXw"
+    } 
+  ]

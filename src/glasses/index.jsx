@@ -2,6 +2,17 @@ import data from "./data.json";
 import { useState } from "react";
 export default function Glasses() {
   const [selectedGlass, setSelectedGlass] = useState(data[0]);
+  const renderGlassList = () => {
+  return data.map((glass) => (
+    <img
+      key={glass.id}
+      src={glass.url}
+      alt={glass.name}
+      className="w-20 border p-1 cursor-pointer hover:scale-110 transition"
+      onClick={() => setSelectedGlass(glass)}
+    />
+  ));
+};
 
   return (
     <div
@@ -46,15 +57,7 @@ export default function Glasses() {
       {/* Glasses List */}
       <div className="bg-white w-[750px] mx-auto p-6 rounded">
         <div className="flex flex-wrap justify-center gap-4">
-          {data.map((glass) => (
-            <img
-              key={glass.id}
-              src={glass.url}
-              alt={glass.name}
-              className="w-20 border p-1 cursor-pointer hover:scale-110 transition"
-              onClick={() => setSelectedGlass(glass)}
-            />
-          ))}
+          {renderGlassList()}
         </div>
       </div>
     </div>
