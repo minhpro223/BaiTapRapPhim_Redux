@@ -10,6 +10,7 @@ import Glasses from "./glasses";
 import Communication from "./comunication";
 import ShoppingPhone from "./shoppingPhone";
 import ShoesStore from "./ShoppingShoes/shoes-store";
+import BookingMovie from "./BookingMovie/BookingMovie";
 function App() {
   return (
     <>
@@ -26,7 +27,8 @@ function App() {
       {/* <Glasses/> */}
       {/* <Communication/> */}
       {/* <ShoppingPhone/> */}
-      <ShoesStore />
+      {/* <ShoesStore /> */}
+      <BookingMovie />;
     </>
   );
 }
